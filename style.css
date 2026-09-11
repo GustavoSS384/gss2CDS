@@ -7,8 +7,8 @@ body{
 font-family: "Poppins", sans-serif;
 }
 header{
-background-color: #095f07;
-color: rgb(160, 215, 8);
+background-color: #424e61;
+color: white;
 width: 100%;
 padding: 20px;
 }
@@ -33,10 +33,7 @@ font: 30px;
 }
 .sociais{
 display: flex;
-justify-content: flex:
-
-Verificar os cabos de rede, modem e roteador
-Conectar-end;
+justify-content: flex-end;
 width: 25%;
 padding-right: 30px;
 }
@@ -73,8 +70,8 @@ display: flex;
 justify-content: space-around;
 }
 .escola{
-background-image: linear-gradient(#e39a40,#efc67f);
-color: rgb(224, 224, 12);
+background-image: linear-gradient(#40A2E3,#7FC2EF);
+color: white;
 display: flex;
 justify-content:center;
 padding: 24px 0;
@@ -94,30 +91,4 @@ padding: 12px 0;
 .link{
 color: #ffffff;
 text-decoration: none;
-}
-
-/**menu*/
-
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #333333;
-}
-
-ul li {
-  float: left;
-}
-
-ul li a {
-  display: block;
-  color: white;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-}
-
-ul li a:hover {
-  background-color: #111111;
 }
